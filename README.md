@@ -1,3 +1,4 @@
 # frontend-demo
-this is my first demo repose
+this is my first demo repository.
+<br>
 author- Sakshi Singh
